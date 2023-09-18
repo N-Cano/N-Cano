@@ -8,7 +8,9 @@
 <a href="https://www.linkedin.com/in/nahuel-cano-b03062219/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-### Glad to see you here!  
+
+## Glad to see you here!  
+
 Experienced full-stack developer with a proven track record in both individual and collaborative projects. I maintain a relentless pursuit of excellence in the programming realm, boasting proficiency in JavaScript, Node.js, React, Express, Redux, and PostgreSQL. My primary focus lies in architecting cutting-edge, high-performance web and mobile applications.
 
 My unwavering passion for programming fuels a relentless dedication to honing my skills daily. I am deeply committed to perpetual growth and perpetually seek new opportunities to challenge myself while expanding my knowledge base. If you seek a committed and innovative developer who thrives in a team environment, I am eager to contribute to your project's success.
