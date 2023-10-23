@@ -18,7 +18,7 @@ My unwavering passion for programming fuels a relentless dedication to honing my
 <br/>  
 
 
-- 🌱 I’m currently learning TypeScript and Tailwind 
+- 🌱 I’m currently learning TypeScript
   
 - ⚡ Fun fact: I love to write code in the quiet of the night
 
